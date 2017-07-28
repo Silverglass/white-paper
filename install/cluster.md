@@ -186,6 +186,3 @@ sudo lainctl node add -p playbooks {{ hostname }}:{{ ip }}
 视频地址：http://www.bilibili.com/video/av4671059/
 
 > 详细的集群管理请见LAIN白皮书第四章：[集群管理员手册](../adminmanual/index.html)。
-```
-
-```
